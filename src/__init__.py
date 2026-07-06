@@ -1,2 +1,2 @@
-from .MaruMaterials import glass
+from .MaruMaterials import Glass
 
