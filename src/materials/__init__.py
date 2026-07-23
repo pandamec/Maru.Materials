@@ -1,2 +1,3 @@
-from .MaruMaterials import Glass
+from .MaruMaterials import Borosilicate_glass
+from .MaruMaterials import Fusedsilica_glass
 
